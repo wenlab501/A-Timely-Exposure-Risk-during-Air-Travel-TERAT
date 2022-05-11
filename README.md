@@ -8,4 +8,6 @@ You may directly gitclone or download the apk and install in your smart phone.
 Due to the computational complexity, this app requrires a good internet environment, or it may take few seconds to demonstrate timely exposure risk and flight schedule information.
 
 If you have any questions, suggestions feel free to contact us.</br>
-PI: Tzai-Hung Wen (wenthung@ntu.edu.tw)
+Contact Information </br>
+PI: Tzai-Hung Wen (wenthung@ntu.edu.tw)</br>
+Chun-Hsiang Chan (d04228002@ntu.edu.tw)
